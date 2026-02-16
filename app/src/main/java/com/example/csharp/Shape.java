@@ -9,4 +9,6 @@ public class Shape {
         this.x = x;
         this.y = y;
     }
+
+    String color = "red";
 }
