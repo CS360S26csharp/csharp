@@ -10,5 +10,5 @@ public class Shape {
         this.y = y;
     }
 
-    String color = "red";
+    String color = "blue";
 }
